@@ -1,2 +1,2 @@
-# hackathons
-Решения с разных хакатонов
+# OpenSpaceHack_SUII
+Решение для хакатона OpenSpaceHack
